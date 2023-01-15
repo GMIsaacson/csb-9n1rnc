@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gmisaacson.github.io/csb-9n1rnc/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://gmisaacson.github.io/csb-9n1rnc/static/js/main.60c811e0.chunk.js",
+    "main.js.map": "https://gmisaacson.github.io/csb-9n1rnc/static/js/main.60c811e0.chunk.js.map",
+    "runtime-main.js": "https://gmisaacson.github.io/csb-9n1rnc/static/js/runtime-main.dd02eef2.js",
+    "runtime-main.js.map": "https://gmisaacson.github.io/csb-9n1rnc/static/js/runtime-main.dd02eef2.js.map",
+    "static/js/2.15f070d6.chunk.js": "https://gmisaacson.github.io/csb-9n1rnc/static/js/2.15f070d6.chunk.js",
+    "static/js/2.15f070d6.chunk.js.map": "https://gmisaacson.github.io/csb-9n1rnc/static/js/2.15f070d6.chunk.js.map",
+    "index.html": "https://gmisaacson.github.io/csb-9n1rnc/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://gmisaacson.github.io/csb-9n1rnc/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.15f070d6.chunk.js.LICENSE.txt": "https://gmisaacson.github.io/csb-9n1rnc/static/js/2.15f070d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd02eef2.js",
+    "static/js/2.15f070d6.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.60c811e0.chunk.js"
+  ]
+}
